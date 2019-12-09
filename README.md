@@ -1,5 +1,5 @@
 # ShadowBounce_Game
- Hello! This is a small arcade game I build for the university subject!\
+ Hello! This is a small arcade game I build for a university subject!\
  \
  It basically generate a ball and a bunch of small pegs from files and they all have different shapes and colours, and each colour has its own function in the game, for example, when green pegs are destroyed(struck by a ball), it generated two new balls.
  \
